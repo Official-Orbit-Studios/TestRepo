@@ -1,2 +1,2 @@
 # TestRepo
-A repo to go a long with a tutorial
+A repo to go along with a tutorial
